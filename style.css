@@ -12,6 +12,15 @@ html,body{
     height: 100%;
     background-color:#FFFFE9;
 }
+.nav2{
+    background-color:#CBCDA9;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+}
 .nav{
     background-color:#FFFFE9;
     height: 60px;
